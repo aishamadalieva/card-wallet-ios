@@ -12,6 +12,12 @@
   SwiftUI · SwiftData · Observation · Swift Testing
 </p>
 
+<p align="center">
+  <a href="https://github.com/aishamadalieva/card-wallet-ios/actions/workflows/ci.yml">
+    <img src="https://github.com/aishamadalieva/card-wallet-ios/actions/workflows/ci.yml/badge.svg" alt="CI status">
+  </a>
+</p>
+
 ## Overview
 
 CardWallet is an iOS portfolio project focused on combining polished interaction design with maintainable application architecture. Cards can be browsed as an overlapping stack or a list, selected through a fluid transition, and managed from a focused details screen.
